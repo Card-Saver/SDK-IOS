@@ -1,11 +1,11 @@
 Disclaimer: Please note that we no longer support older versions of SDKs and Modules. We recommend that the latest versions are used.
 
-Cardstream iOS SDK
+iOS SDK
 ==================
 
 Overview
 ---------
-iOS SDK that can be used to allow the use of the Cardstream payment gateway within an iOS application.
+iOS SDK that can be used to allow the use of the payment gateway within an iOS application.
 
 
 Requirements
