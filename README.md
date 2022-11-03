@@ -12,4 +12,4 @@ Requirements
 ------------
 CryptoSwift must be included as a Framework dependency. We have provided CryptoSwift v0.7.2 as part of our SDK however as part of good practice we encourage you to rebuild CryptoSwift and our iOS SDK before use.
 
-
+support email: online.support@card-saver.co.uk
